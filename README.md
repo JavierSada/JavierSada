@@ -55,3 +55,6 @@
 <a href="https://github.com/JavierSada/JavierSada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="Javier's GitHub Stats" />
 </a>
+
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
