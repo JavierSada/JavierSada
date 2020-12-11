@@ -1,4 +1,4 @@
-![alt text](https://github.com/JavierSada/JavierSada/blob/main/JS.jpg)
+![alt text](https://github.com/JavierSada/JavierSada/blob/main/pics/JS.jpg)
 
 <h2 align="left">Hello World! My name is Javier Sada. :octocat: :computer:</h2>
 
