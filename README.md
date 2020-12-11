@@ -1,8 +1,5 @@
 ![alt text](https://github.com/JavierSada/JavierSada/blob/main/pics/JS12.jpg)
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/javiersada/javiersada/master/name.svg" alt="Javier Sada" />
-</h1>
 
 <p align='center'>
 <a href="https://twitter.com/jjavier_sada"><img height="55" src="https://github.com/JavierSada/JavierSada/blob/main/pics/Twitter.png"></a>&nbsp;&nbsp;
