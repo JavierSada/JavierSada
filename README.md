@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiersada&layout=compact)](https://github.com/javiersada/github-readme-stats)
+
 
 <a href="https://github.com/JavierSada/JavierSada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSada&hide=java,html&theme=prussian" />
