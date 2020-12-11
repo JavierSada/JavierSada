@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - Love Baseball and Ice Hockey
 - Side husle Investment and stock analysis
-- 
+- Batman fan 
 
 ## &#x1f4c8; GitHub Stats
 
