@@ -8,13 +8,16 @@
 
 <h2 align="left">Hello World! My name is Javier Sada. :octocat: :computer:</h2> 
 
+<p align="justify"> I'm a Supply Chain professional, lot of experience on the field. From operations and warehouse to strategic supply chain like projects, ERP implementations, strategic sourcing and forecasting. I know this is not LinkedIn or any other professional network, so here's the interesting part; I truly believe that data will revolutionize the way we conceive supply chain and the way we use data to take decisions and be more efficient. And GitHub is a great tool to sahre my data sciencie projects as well as learn from the community
+  
+ Currently a data scientist in training, I’m passionate about data science, understand how the data shape our decision making and optimize our processes and understanding of our surrounding reality. Still in training and developing my modeliging and forecasting skills along with coding in Python, R, JavaScript Charting, Tableau, Machine Learning, Big Data Analytics with Hadoop, Geomapping with Leaflet, Bootstrap, Dashboarding.
 <!--
 **JavierSada/JavierSada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Everything, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
