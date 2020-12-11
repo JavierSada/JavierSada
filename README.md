@@ -30,7 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
 <!--
 **JavierSada/JavierSada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +47,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡️ Fun fact:
+
+- Love Baseball and Ice Hockey
+- Side husle Investment and stock analysis
+- 
 
 ## &#x1f4c8; GitHub Stats
 
