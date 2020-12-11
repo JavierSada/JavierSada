@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/JavierSada/JavierSada/blob/main/pics/GitHub.PNG" width="100" height="100">
