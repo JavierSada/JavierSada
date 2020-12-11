@@ -33,4 +33,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiersada&layout=compact)](https://github.com/javiersada/github-readme-stats)
 
-![Javier's Github Stats](https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&theme=prussian)
+<a href="https://github.com/JavierSada/JavierSada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSada&hide=java,html&theme=prussian" />
+</a>
+<a href="https://github.com/JavierSada/JavierSada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="Javier's GitHub Stats" />
+</a>
