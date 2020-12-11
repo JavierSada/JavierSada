@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiersada&layout=compact)](https://github.com/javiersada/github-readme-stats)
 
 ![Javier's Github Stats](https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&theme=prussian)
