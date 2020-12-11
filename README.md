@@ -1,7 +1,6 @@
-![alt text](https://github.com/JavierSada/JavierSada/blob/main/pics/JS.jpg)
+![alt text](https://github.com/JavierSada/JavierSada/blob/main/pics/JS12.jpg)
 
 <h2 align="left">Hello World! My name is Javier Sada. :octocat: :computer:</h2> 
-<img src="https://github.com/JavierSada/JavierSada/blob/main/pics/GitHub.PNG" width="100" height="100">
 
 <!--
 **JavierSada/JavierSada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
