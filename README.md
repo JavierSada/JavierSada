@@ -1,5 +1,9 @@
 ![alt text](https://github.com/JavierSada/JavierSada/blob/main/pics/JS12.jpg)
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/javiersada/javiersada/master/name.svg" alt="Javier Sada" />
+</h1>
+
 <p align='center'>
 <a href="https://twitter.com/jjavier_sada"><img height="55" src="https://github.com/JavierSada/JavierSada/blob/main/pics/Twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jjaviersada/"><img height="40" src="https://github.com/JavierSada/JavierSada/blob/main/pics/LinkedIn.PNG"></a>&nbsp;&nbsp;
@@ -33,20 +37,12 @@
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
-<!--
-**JavierSada/JavierSada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Quick Facts:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Everything, 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... coding skills
+- 🌱 I’m currently learning ... Everything
+- 👯 I’m looking to collaborate on ... data sciences projects as volunteer
+- 🤔 I’m looking for help with ... coding
 
 ## ⚡️ Fun fact:
 
