@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 
-![Javier's Github Stats](https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&theme=algolia)
+![Javier's Github Stats](https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&theme=prussian)
