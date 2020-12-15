@@ -58,5 +58,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierSada&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="Javier's GitHub Stats" />
 </a>
 
+
+ <p align="leftr">
+  
+<img src="https://metrics.lecoq.io/javiersada" alt="Github Metrics">
+  
+  <br>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javiersada" alt="Github Streak Stats">
+  
+</p>
+
+
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
