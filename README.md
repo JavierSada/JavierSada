@@ -59,7 +59,7 @@
 </a>
 
 
- <p align="leftr">
+ <p align="left">
   
 <img src="https://metrics.lecoq.io/javiersada" alt="Github Metrics">
   
